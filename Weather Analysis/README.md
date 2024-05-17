@@ -1,9 +1,11 @@
-Real-World Weather Data Analysis
+<h1>**__Real-World Weather Data Analysis__**</h1>
 
-Description:
+**Description:**
+
 This project involves analyzing a real-world weather dataset to extract meaningful insights and answer specific questions related to weather conditions, wind speed, visibility, and more. The analysis includes data cleaning, statistical calculations, and data manipulation to provide comprehensive answers to the posed questions.
 
-Objectives:
+
+**Objectives:**
 
 Identify all unique 'Wind Speed' values in the data.
 
@@ -38,10 +40,14 @@ Identify instances when:
 'Visibility is above 40'.
 
 
-Technologies Used:
+
+**Technologies Used:**
+
 
 Python
+
 Pandas
+
 Jupyter Notebook (or any Python IDE)
 
 
