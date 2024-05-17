@@ -7,35 +7,35 @@ This project involves analyzing a real-world weather dataset to extract meaningf
 
 **Objectives:**
 
-Identify all unique 'Wind Speed' values in the data.
+1.Identify all unique 'Wind Speed' values in the data.
 
-Count the number of occurrences when the 'Weather is exactly Clear'.
+2.Count the number of occurrences when the 'Weather is exactly Clear'.
 
-Determine the number of times when the 'Wind Speed was exactly 4 km/h'.
+3.Determine the number of times when the 'Wind Speed was exactly 4 km/h'.
 
-Detect and list all Null Values in the data.
+4.Detect and list all Null Values in the data.
 
-Rename the column 'Weather' to 'Weather Condition'.
+5.Rename the column 'Weather' to 'Weather Condition'.
 
-Calculate the mean 'Visibility'.
+6.Calculate the mean 'Visibility'.
 
-Compute the Standard Deviation of 'Pressure' in the dataset.
+7.Compute the Standard Deviation of 'Pressure' in the dataset.
 
-Find the Variance of 'Relative Humidity'.
+8.Find the Variance of 'Relative Humidity'.
 
-List all instances when 'Snow' was recorded.
+9.List all instances when 'Snow' was recorded.
 
-Identify instances where 'Wind Speed is above 24' and 'Visibility is 25'.
+10.Identify instances where 'Wind Speed is above 24' and 'Visibility is 25'.
 
-Calculate the Mean value of each column for each 'Weather Condition'.
+11.Calculate the Mean value of each column for each 'Weather Condition'.
 
-Determine the Minimum & Maximum value of each column for each 'Weather Condition'.
+12.Determine the Minimum & Maximum value of each column for each 'Weather Condition'.
 
-Display all records where the Weather Condition is 'Fog'.
+13.Display all records where the Weather Condition is 'Fog'.
 
-Find all instances when the 'Weather is Clear' or 'Visibility is above 40'.
+14.Find all instances when the 'Weather is Clear' or 'Visibility is above 40'.
 
-Identify instances when:
+15.Identify instances when:
 'Weather is Clear' and 'Relative Humidity is greater than 50', or
 'Visibility is above 40'.
 
